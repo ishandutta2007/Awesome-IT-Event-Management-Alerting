@@ -233,3 +233,12 @@ Star the repo if you find it useful!
 **Made for support leaders, knowledge managers, and teams building self-service experiences.**  
 
 Let's expand open knowledge bases and FAQ systems while recognizing the workflow polish that leading commercial KB platforms deliver.
+
+## Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-IT-Event-Management-Alerting&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-IT-Event-Management-Alerting_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-IT-Event-Management-Alerting_growth.svg">
+  </picture>
+</a>
